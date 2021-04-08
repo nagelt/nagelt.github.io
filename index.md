@@ -6,6 +6,8 @@ For simple illustrations on soil mechanical topics, please click [here](https://
 
 For scripts illustrating numerical methods in engineering, please go [here](https://nagelt.github.io/Numerical_Methods_Introduction).
 
+For scripts illustrating dynamics in engineering and soil dynamics in particular, please go [here](https://nagelt.github.io/soil_dynamics).
+
 
 
 
