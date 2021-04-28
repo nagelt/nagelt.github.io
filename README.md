@@ -1,6 +1,6 @@
 Here's a list of simple interactive teaching scripts. Comments are welcome.
 
-A lot of the content is in German, as the material is used in lectures at a German university.
+A lot of the content is in German, as the material is used in lectures at Technische Universität Bergakademie Freiberg, Germany.
 
 For simple illustrations on soil mechanical topics, please click [here](https://nagelt.github.io/Teaching_Scripts).
 
