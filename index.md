@@ -16,4 +16,4 @@ Kern, D., & Nagel, T. (2022). An experimental numerics approach to the terrestri
 
 **Temporäre Seite mit Tipps zum Studium**
 
-Tipps für den Studienbeginn finden Sie [hier](https://nagelt.github.io/studium.md), bis die neue TUBAF Homepage online geht.
+Tipps für den Studienbeginn finden Sie [hier](studium.md), bis die neue TUBAF Homepage online geht.
